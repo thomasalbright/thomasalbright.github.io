@@ -1,0 +1,9 @@
+name: Thomas Albright
+title: Thomas Albright
+markdown: redcarpet
+pygments: true
+permalink: /:title.html
+timezone: America/Denver
+safe: true
+lsi: false
+exclude: ['README.md']
