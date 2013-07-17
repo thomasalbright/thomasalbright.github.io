@@ -6,8 +6,8 @@ title: Thomas Albright
 <h1>ThomasAlbright.com</h1>
 <p class="meta">Essays loosely related to Software Development</p>
 {% for post in site.posts %}
-  <p>
-  <div><a href="{{ post.url }}">{{ post.title }}</a></div>
-  <div style="font-size: 12px; color: #999">&raquo; {{ post.date | date_to_string }}</div>
-  </p>
+  <div class="post_link">
+    <div><a href="{{ post.url }}">{{ post.title }}</a></div>
+    <div style="font-size: 12px; color: #999">&raquo; {{ post.date | date_to_string }}</div>
+  </div>
 {% endfor %}
