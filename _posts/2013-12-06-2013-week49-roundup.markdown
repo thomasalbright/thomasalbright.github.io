@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Weekly Roundup"
+categories: weekly-roundup
+---
+
+_A programmer's thoughts on some of the week's happenings._
+
+
+<img src="{{ site.url }}/assets/amazon_mobile.png" style="float: right; margin:
+12px;" />
+
+[iOS devices dominated mobile shopping on Black
+Friday](http://www.lukew.com/ff/entry.asp?1838) again.  Looks like
+it's still the best mobile platform to to target first, even though
+Android is more widely used.
+
+Regardless of which platform is used, [mobile e-commerce over is taking
+off this year](http://www.lukew.com/ff/entry.asp?1837).  That matches up
+with the usage numbers we have seen on our clients' sites.  I wonder
+what the ceiling is for mobile browsing vs traditional desktop
+browsing...
+
+---
+
+<img src="{{ site.url }}/assets/firefox.png" style="float: left; margin:
+12px;" />
+Bill McCloskey reported [progress towards making Firefox use multiple
+processes](http://billmccloskey.wordpress.com/2013/12/05/multiprocess-firefox/).
+  The article goes into some nice low-level detail.
+
+Multiple processes (and the sandboxing it allows) is the main reason
+that I use Chrome rather than Firefox.  If this makes it into the
+release branch, I will be very tempted to switch back to Firefox.
+
+---
+
+<img src="{{ site.url }}/assets/bitcoin.png" style="float: right; margin:
+12px;" />
+After rising above $1200 earlier this week, [Bitcoin dropped to $870
+earlier
+today](http://www.businessweek.com/articles/2013-12-05/bitcoins-volatility-problem-why-todays-sell-off-wont-be-the-last).
+I'm sure people will calm down and talk themselves into reinvesting, and
+Bitcoin will continue rising.  But [Alan Greenspan thinks it's a
+bubble](http://www.bloomberg.com/news/2013-12-04/greenspan-says-bitcoin-a-bubble-without-intrinsic-currency-value.html),
+and he's pretty smart.  That doesn't mean it won't hit $10,000 and gain
+tons of media attention before the bubble bursts, though.
+
+---
+
+In effort to find a good PGP solution, I played around with
+[Mailvelope](http://www.mailvelope.com/), which lets you use PGP with
+webmail. However, it's big limitation is that it doesn't enable you to
+encrypt attachments, which basically makes it a non-starter.  Until
+Google decides to build PGP into GMail, I fear I will never be able to
+use it with "normal" people.
