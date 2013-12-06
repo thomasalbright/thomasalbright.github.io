@@ -23,6 +23,25 @@ browsing...
 
 ---
 
+_The Verge_ had a nice article about nice story about [the software
+development problems with
+healthcare.gov](http://www.theverge.com/us-world/2013/12/3/5163228/healthcare-gov-obamacare-website-shows-how-government-can-do-tech-better).
+There have been a million articles about healthcare.gov, but this
+article seems to ask actually thoughtful questions about the development
+process.
+
+One of the main focuses is "IT-procurement", or the way that the
+government hires its software development contractors.  Apparently there
+are efforts to removing red tape so that more talented developers are
+actually interested.
+
+I hope that is what happens, but I worry that this fiasco could actually
+have the opposite effect, and make litigation even more core to
+everything.  I stay up late at night worrying that the government will
+start trying to "license" programmers.
+
+---
+
 <img src="{{ site.url }}/assets/firefox.png" style="float: left; margin:
 12px;" />
 Bill McCloskey reported [progress towards making Firefox use multiple
